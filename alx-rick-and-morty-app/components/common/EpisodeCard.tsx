@@ -12,4 +12,4 @@ const EpisodeCard = ({ id, name, air_date, episode }: EpisodeCardProps) => {
   );
 };
 
-export default EpisodeCard;
+export default EpisodeCard; 

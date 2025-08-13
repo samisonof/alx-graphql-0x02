@@ -4,8 +4,6 @@ import { EpisodeProps } from "@/interfaces"
 import EpisodeCard from "@/components/common/EpisodeCard"
 import { useEffect, useState } from "react"
 
-
-
 const Home: React.FC = () => {
 
   const [page, setPage] = useState<number>(1)
